@@ -12,5 +12,5 @@ My experiments in analyzing wikipedia data dumps.
 
 ## Links
 
-1. Jeff Heaton
-2. Wikiparser
+1. [Jeff Heaton](https://www.heatonresearch.com/2017/03/03/python-basic-wikipedia-parsing.html)
+2. [Wikiparser](https://dizzylogic.com/wiki-parser/)
